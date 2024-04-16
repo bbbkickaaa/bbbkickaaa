@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Mins%20Hub&fontSize=90&fontColor=999999)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Mins%20Hub&fontSize=90&fontColor=1E0342)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbkickaaa)](https://github.com/bbbkickaaa/github-readme-stats)
